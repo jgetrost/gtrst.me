@@ -3,8 +3,8 @@
     "lastName":"Getrost",
     "age":20,
     "picture": "https://pbs.twimg.com/profile_images/634798028277190656/dJtsX-0E.jpg",
-    "NickNames: [
-        "nick": "Jim",
-        "nick": "Ogre"
+    "nickNames: [
+        {"nick": "Jim"},
+        {"nick": "Ogre"}
     ]
 }
